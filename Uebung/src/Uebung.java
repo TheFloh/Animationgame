@@ -5,7 +5,7 @@ public class Uebung {
 		// TODO Auto-generated method stub
 
 	
-			 
+		System.out.println("Hallo");
 			 System.out.println(
 			 (17+88)*2==42?"tatsaechlich gleich":"unterschiedlich");
 			
